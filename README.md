@@ -1,16 +1,28 @@
-# quote_app
+Quote App
+A simple and modern Flutter application that displays random quotes from an online API and allows users to save their favorites.
 
-A new Flutter project.
+✨ Features
+✅ Fetch random quotes (via zenquotes.io API)
 
-## Getting Started
+✅ Add and remove quotes from favorites
 
-This project is a starting point for a Flutter application.
+✅ Light and Dark mode toggle
 
-A few resources to get you started if this is your first Flutter project:
+✅ Responsive design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Clean architecture using ValueNotifier state management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Google Fonts integration for enhanced typography
+
+✅ Snackbars for user feedback
+
+🛠 Technologies Used
+Flutter 3.x
+
+Dart
+
+ValueNotifier / ValueListenableBuilder (State Management)
+
+HTTP package
+
+Google Fonts package
